@@ -7,3 +7,4 @@ Slides and example code on the training Angular Advanced - december 2022
 - TypeScript utility types, zoals `Pick`, `Record` en meer: https://www.typescriptlang.org/docs/handbook/utility-types.html
 - Documentatie over `Subject<T>`: https://reactivex.io/documentation/subject.html
 - documentatie `distinctUntilChanged()` : https://www.learnrxjs.io/learn-rxjs/operators/filtering/distinctuntilchanged
+- Typescript uitroepteken: https://blog.logrocket.com/understanding-exclamation-mark-typescript
